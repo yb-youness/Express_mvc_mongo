@@ -1,0 +1,26 @@
+{
+  "name": "TodoExpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ember-truth-helpers": "^3.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "express-validator": "^6.7.0",
+    "handlebars": "^4.5.0",
+    "handlebars-helper-equal": "^1.0.0",
+    "handlebars-helpers": "^0.10.0",
+    "install": "^0.13.0",
+    "mongoose": "^5.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
