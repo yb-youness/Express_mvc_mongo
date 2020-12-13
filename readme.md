@@ -1,6 +1,6 @@
 # Simple Todo App Using Mvc In Express
 
-![Project Image](./Img/app.png)
+![Project Image](./img/app.png)
 
 ---
 
